@@ -3,3 +3,5 @@ matplotlib
 numpy
 pandas
 plotly.express
+scikit-learn
+statsmodels
